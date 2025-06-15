@@ -63,5 +63,3 @@ Made with ❤️ by [Aamina196](https://github.com/Aamina196)
 
 ---
 
-Once saved, commit and push this file to your GitHub project folder.  
-If you need help automating this or uploading a screenshot too, just let me know! ​:contentReference[oaicite:0]{index=0}​
